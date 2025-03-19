@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**jani3468/jani3468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jani3468/janirajpoot _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
